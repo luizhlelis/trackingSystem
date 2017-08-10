@@ -1,0 +1,4 @@
+
+* O sistema recebe dados de posicionamento de celulares monitorados através da internet, armazena esses dados e fornece-os a uma interface gráfica para visualização dessas informações. O sistema é composto pelos seguintes módulos: interface móvel cliente; gateway; servidor de aplicação; historiador; interface gráfica. Cada módulo do sistema foi desenvolvido como uma aplicação independente. A interface móvel cliente e a interface gráfica foram previamente fornecidas.
+
+* O repositório contém a proposição do problema (desccricao.pdf) e os arquivos que solucionam o problema (gateway, historiador e servidor de aplicação).
